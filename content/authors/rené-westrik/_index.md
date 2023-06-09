@@ -4,6 +4,6 @@ role: Interim Zorgverlener
 avatar_filename: avatar
 bio: "Ik verleen zorg "
 social: []
-superuser: false
+superuser: true
 ---
 Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg Ik verleen zorg
